@@ -8,7 +8,7 @@ This is a project build to understand and improve my knowledge on Node and the u
 
 2. Create a local file of the project git clone https://github.com/sebastianmariani/weather-app-node.git
 
-3. Enter the file via terminal cd `weather-app-node`
+3. Enter the file via terminal `cd weather-app-node`
 4. To search for a specific city write `node app.js nameOfCity`
 
 ## Build with
